@@ -1,0 +1,72 @@
+==== Bank Management System ====
+1. Create Account
+2. Display Accounts
+3. Deposit
+4. Withdraw
+5. Exit
+Enter choice: 1
+Enter Account Number: 1234
+Enter Name: zaina
+Enter Initial Balance: 70000
+Account Created Successfully!
+
+==== Bank Management System ====
+1. Create Account
+2. Display Accounts
+3. Deposit
+4. Withdraw
+5. Exit
+Enter choice: 2
+
+--- Accounts ---
+Acc No: 1234 | Name: zaina | Balance: 70000.00
+==== Bank Management System ====
+1. Create Account
+2. Display Accounts
+3. Deposit
+4. Withdraw
+5. Exit
+Enter choice: 3
+Enter Account Number: 1234
+Enter Amount: 30000
+Deposit Successful!
+
+==== Bank Management System ====
+1. Create Account
+2. Display Accounts
+3. Deposit
+4. Withdraw
+5. Exit
+Enter choice: 2
+
+--- Accounts ---
+Acc No: 1234 | Name: zaina | Balance: 100000.00
+==== Bank Management System ====
+1. Create Account
+2. Display Accounts
+3. Deposit
+4. Withdraw
+5. Exit
+Enter choice: 4
+Enter Account Number: 1234
+Enter Amount: 50000
+Withdrawal Successful!
+
+==== Bank Management System ====
+1. Create Account
+2. Display Accounts
+3. Deposit
+4. Withdraw
+5. Exit
+Enter choice: 2
+
+--- Accounts ---
+Acc No: 1234 | Name: zaina | Balance: 50000.00
+==== Bank Management System ====
+1. Create Account
+2. Display Accounts
+3. Deposit
+4. Withdraw
+5. Exit
+Enter choice: 5
+Exiting...
